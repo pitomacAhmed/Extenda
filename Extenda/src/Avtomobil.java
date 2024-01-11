@@ -1,0 +1,3 @@
+class Avtomobil extends Vozilo {
+
+}
